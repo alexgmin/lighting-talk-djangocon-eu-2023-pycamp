@@ -1,0 +1,1 @@
+# lighting-talk-djangocon-eu-2023-pycamp
